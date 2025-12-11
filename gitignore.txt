@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+myenv/
+PongGame_approx.pkl
+PongGame_qlearn.pkl
+PacmanGame_approx.pkl
+PacmanGame_qlearn.pkl
+
+# Add your files or folder which you want to ignore while pusing to git
